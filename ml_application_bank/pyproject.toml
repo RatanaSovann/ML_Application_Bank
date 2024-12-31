@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.12"
 pandas = "2.2.2"
 scikit-learn = "1.5.1"
+jupyterlab = "4.2.3"
 
 
 [build-system]
